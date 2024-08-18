@@ -162,9 +162,6 @@ This project is licensed under the MIT License.
 - Laravel Documentation: [https://laravel.com/docs](https://laravel.com/docs)
 - Bootstrap Documentation: [https://getbootstrap.com/docs](https://getbootstrap.com/docs)
 
-It looks like you want to incorporate images into your project documentation to enhance its presentation. Including images can make your documentation more engaging and visually appealing. Here's how you can incorporate images into different sections of your documentation:
-
-
  ## Application Screenshots <a name="screenshots"></a>
 
 - **User Registration Page**
@@ -172,5 +169,6 @@ It looks like you want to incorporate images into your project documentation to 
 
 - **Admin Dashboard**
   ![Admin Dashboard](Screenshots/welcomepage.png)
+  
 - **Login Page**
   ![Login Page](Screenshots/loginpage.png)
